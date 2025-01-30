@@ -1,31 +1,19 @@
-# PROJECTNAME
+# E-shop frontend
 
 ## Objective
-[Brief Objective - Remove this afterwards]
-
-The Detection Lab project aimed to establish a controlled environment for simulating and detecting cyber attacks. The primary focus was to ingest and analyze logs within a Security Information and Event Management (SIEM) system, generating test telemetry to mimic real-world attack scenarios. This hands-on experience was designed to deepen understanding of network security, attack patterns, and defensive strategies.
+The eShop frontend project aims to deliver a seamless and responsive user interface for an online shopping platform. The focus is on creating an intuitive, visually appealing, and efficient user experience, ensuring smooth navigation, product browsing, and checkout processes. The frontend is designed with modern web technologies to enhance performance, accessibility, and cross-device compatibility, aligning with best practices in UI/UX design and e-commerce standards.
 
 ### Skills Learned
-[Bullet Points - Remove this afterwards]
-
-- Advanced understanding of SIEM concepts and practical application.
-- Proficiency in analyzing and interpreting network logs.
-- Ability to generate and recognize attack signatures and patterns.
-- Enhanced knowledge of network protocols and security vulnerabilities.
-- Development of critical thinking and problem-solving skills in cybersecurity.
+-Proficiency in HTML and CSS for building interactive and responsive web interfaces.
+-Experience with Grid layout for structuring complex page designs efficiently.
+-Understanding of UI/UX best practices to enhance user experience and navigation.
+-Debugging and troubleshooting UI issues across different browsers and devices.
 
 ### Tools Used
-[Bullet Points - Remove this afterwards]
+-HTML & CSS – Core technologies for structuring and styling the eShop frontend.
+-CSS Grid – For creating a flexible and structured layout.
+-Responsive Design Techniques – Ensuring the site adapts to different screen sizes.
+-Browser Developer Tools – For debugging and refining the UI.
+-Version Control (Git/GitHub) – To track changes and manage development efficiently.
+-Performance & Accessibility Testing Tools – To optimize loading speed and user experience
 
-- Security Information and Event Management (SIEM) system for log ingestion and analysis.
-- Network analysis tools (such as Wireshark) for capturing and examining network traffic.
-- Telemetry generation tools to create realistic network traffic and attack scenarios.
-
-## Steps
-drag & drop screenshots here or use imgur and reference them using imgsrc
-
-Every screenshot should have some text explaining what the screenshot is about.
-
-Example below.
-
-*Ref 1: Network Diagram*
